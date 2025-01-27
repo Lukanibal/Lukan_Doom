@@ -1,0 +1,11 @@
+{
+  "$GMNotes":"",
+  "%Name":"GDD",
+  "name":"GDD",
+  "parent":{
+    "name":"Lukan_Doom",
+    "path":"Lukan_Doom.yyp",
+  },
+  "resourceType":"GMNotes",
+  "resourceVersion":"2.0",
+}

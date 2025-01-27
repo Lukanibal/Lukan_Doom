@@ -1,0 +1,11 @@
+Lukan Doom 
+Design Document
+
+
+Main Goals:
+1. .WAD editing and publishing tools 100% compatible with ID Tech 1
+2. .LWAD format to add some enhancements to the format
+3. Run .WADs in editor
+
+Unlike other Doom Editors I am trying to make an all-in-one package similar to GameMaker itself.
+Lukan Doom(or possibly LDoom for short) will not distribute or contain any of Doom's original assets, but should be able to run DOOM.WAD 100%
