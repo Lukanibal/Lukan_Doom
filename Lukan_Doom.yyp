@@ -10,10 +10,15 @@
   },
   "defaultScriptType":1,
   "Folders":[
+    {"$GMFolder":"","%Name":"3D_Rednering","folderPath":"folders/3D_Rednering.yy","name":"3D_Rednering","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Rooms","folderPath":"folders/Rooms.yy","name":"Rooms","resourceType":"GMFolder","resourceVersion":"2.0",},
+    {"$GMFolder":"","%Name":"WAD_Scripts","folderPath":"folders/WAD_Scripts.yy","name":"WAD_Scripts","resourceType":"GMFolder","resourceVersion":"2.0",},
   ],
   "ForcedPrefabProjectReferences":[],
-  "IncludedFiles":[],
+  "IncludedFiles":[
+    {"$GMIncludedFile":"","%Name":"freedoom1.wad","CopyToMask":-1,"filePath":"datafiles/WADS","name":"freedoom1.wad","resourceType":"GMIncludedFile","resourceVersion":"2.0",},
+    {"$GMIncludedFile":"","%Name":"freedoom2.wad","CopyToMask":-1,"filePath":"datafiles/WADS","name":"freedoom2.wad","resourceType":"GMIncludedFile","resourceVersion":"2.0",},
+  ],
   "isEcma":false,
   "LibraryEmitters":[],
   "MetaData":{
@@ -22,6 +27,9 @@
   "name":"Lukan_Doom",
   "resources":[
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"id":{"name":"BSP_Handlers","path":"scripts/BSP_Handlers/BSP_Handlers.yy",},},
+    {"id":{"name":"Script1","path":"scripts/Script1/Script1.yy",},},
+    {"id":{"name":"WAD_Handlers","path":"scripts/WAD_Handlers/WAD_Handlers.yy",},},
   ],
   "resourceType":"GMProject",
   "resourceVersion":"2.0",

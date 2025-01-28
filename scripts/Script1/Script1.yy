@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"Script1",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"Script1",
+  "parent":{
+    "name":"3D_Rednering",
+    "path":"folders/3D_Rednering.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}
