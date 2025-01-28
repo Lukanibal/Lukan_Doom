@@ -57,3 +57,5 @@ Temporary Items
 # GameMaker temporary files
 *.resource_order
 *.old
+datafiles/WADS/freedoom1.wad
+datafiles/WADS/freedoom2.wad
